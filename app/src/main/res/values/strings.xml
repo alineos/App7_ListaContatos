@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lista Contatos</string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtConfSenha">Repita sua Senha</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnNewUser">Novo Usuario</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="lblNomeContato">Nome-do-contato</string>
+    <string name="lblTelefoneContato">Telefone-do-contato</string>
+    <string name="btnCall">Call</string>
+    <string name="btnNewContact">Novo Contato</string>
+    <string name="txtApelido">Apelido</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtTelefone">Telefone</string>
+    <string name="usuarioOuSenhaInvalidos">Usuário e/ou senha inválidos</string>
+    <string name="senhasNaoCoicidem"> As senhas não conferem.</string>
+    <string name="usuarioCadastrado">Usuário Cadastrado com Sucesso</string>
+    <string name="usuarioouSenhaVazio">Usuário ou senha vazios</string>
+    <string name="usuarioJaCadastrado">Nome de usuário ja cadastrado </string>
+    <string name="usuarioNaoCadastrado">Usuário não cadastrado </string>
+    <string name="senhaInvalida">Senha Invalida </string>
+    <string name="contatoEmpty">Não há contatos cadastrados para esse usuario </string>
+    <string name="contatoJaCadastrado">Contatos Ja Cadastrados para esse usuario </string>
+    <string name="contatoCadastrado">Contato Cadastrado com sucesso </string>
+
+
+</resources>
